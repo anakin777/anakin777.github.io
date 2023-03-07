@@ -1,13 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",上海五星体育
-http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",咪咕1
 http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",咪咕2
-http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",咪咕3
-http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",咪咕4
-http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",咪咕5
-http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
